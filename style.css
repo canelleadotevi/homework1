@@ -4,7 +4,7 @@ h1{
 }
 .Page{
     display: flex;
-    gap: 80px;
+    gap: 100px;
     padding: 5% 0% 2% 30%;
 }
 .navbar_3{
@@ -42,6 +42,7 @@ li{
 .Article{
     border: 4px solid black;
     margin: 30px 1px 20px 40px;
+    width: 70%;
     
 }
 button{
@@ -55,12 +56,17 @@ button{
     border: 2px solid black;
     font-size: 20px;
 }
-
+a{
+    color: black;
+}
 
 .navbar_2{
     color: gray;
     top: 2px;
     text-transform: uppercase;
+    position: absolute;
+    top: 18%;
+    left: 40%;
 }
 .different_color{
    display: flex;
