@@ -1,6 +1,11 @@
+*{
+    margin: auto 0;
+}
 h1{
     text-align: center;
     text-transform: uppercase;
+    background-color: rgb(241, 235, 235);
+    padding: 15px;
 }
 .Page{
     display: flex;
@@ -27,6 +32,7 @@ li{
 }
 .text{
     padding: 20px 5px 5px 5px;
+    line-height: 35px;
 }
 .More_information{
     text-decoration: underline;
@@ -54,6 +60,8 @@ button{
     padding: 2%;
     text-transform: uppercase;
     border: 2px solid black;
+    margin: auto 0;
+    padding: 1px 5px 20px 5px;
     font-size: 20px;
 }
 a{
@@ -65,7 +73,7 @@ a{
     top: 2px;
     text-transform: uppercase;
     position: absolute;
-    top: 17%;
+    top: 18%;
     left: 35%;
 }
 .different_color{
@@ -129,9 +137,9 @@ a{
 }
 .illustration{
     width: 18%;
-    height: 35%;  
+    height: 34.5%;  
     position: absolute;
-    right: 79.3%;
-    top: 15%;
+    right: 79.6%;
+    top: 10.8%;
 }
 
