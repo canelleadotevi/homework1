@@ -65,8 +65,8 @@ a{
     top: 2px;
     text-transform: uppercase;
     position: absolute;
-    top: 18%;
-    left: 40%;
+    top: 17%;
+    left: 35%;
 }
 .different_color{
    display: flex;
@@ -128,10 +128,10 @@ a{
     left: 11px;
 }
 .illustration{
-    width: 30px;
-    height: 60px;  
+    width: 18%;
+    height: 35%;  
+    position: absolute;
+    right: 79.3%;
+    top: 15%;
 }
-.More{
-    width: 2px;
-    height: 1px;
-}
+
